@@ -66,6 +66,8 @@ Just login with your facebook account and link how many Pokemon GO accounts to i
 First, you need to run the pokemon-bot-service (the service that will interact with PokemonGO official API)
 
 Here is a link to the repo: https://github.com/rafaelcorreiapoli/pokemon-bot-service
+
+Install meteor: <https://www.meteor.com/install>
 ```
 git clone https://github.com/rafaelcorreiapoli/pokemon-bot-service
 cd pokemon-bot-service
